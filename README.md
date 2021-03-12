@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently independent Certified SAP Consultanat working in Cloud, Analytics, Data, Integration, Development.
+I'm currently independent Certified SAP Consultant working in Cloud, Analytics, Data, Integration, Development.
 
 📫 How to reach me: https://www.linkedin.com/in/tuncaykaraca/
 
