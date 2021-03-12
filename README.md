@@ -2,7 +2,12 @@
 
 I'm currently independent Certified SAP Consultant working in Cloud, Analytics, Data, Integration, Development.
 
-📫 How to reach me: https://www.linkedin.com/in/tuncaykaraca/
+Follow me on:
+- LinkedIn https://www.linkedin.com/in/tuncaykaraca/ 
+- Twitter https://twitter.com/tncykarc
+- SAP Community https://people.sap.com/tuncay.karaca
+- Salesforce Trailblazer https://trailblazer.me/id/tncykarc 
+  
 
 <!--
 **TuncayKaraca/TuncayKaraca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
