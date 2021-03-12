@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm currently independent Certified SAP Consultanat working in Cloud, Analytics, Data, Integration, Development.
+
+📫 How to reach me: https://www.linkedin.com/in/tuncaykaraca/
+
 <!--
 **TuncayKaraca/TuncayKaraca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
